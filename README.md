@@ -1,2 +1,2 @@
 # Roisterer
-An effects synthesizer based on teh Raspberry Pi
+An effects synthesizer based on the Raspberry Pi
